@@ -288,13 +288,11 @@ Open a Pull Request
 This project is open source and available under the MIT License.
 
 👨‍💻 Author
-Your Name
+helen lemessa
 
-GitHub: @yourusername
+GitHub: @helenlemessa
 
-Portfolio: yourportfolio.com
-
-LinkedIn: Your LinkedIn
+LinkedIn: [(https://www.linkedin.com/in/helen-lemessa/)](https://www.linkedin.com/in/helen-lemessa/)
 
 🙏 Acknowledgments
 Icons by Lucide
@@ -305,22 +303,6 @@ UI inspiration from modern dashboard designs
 
 Mock property images from Unsplash
 
-🌟 Showcase for Portfolio
-This project demonstrates:
-
-✅ Modern React patterns and best practices
-
-✅ Complex state management solutions
-
-✅ Responsive and accessible UI design
-
-✅ Professional frontend architecture
-
-✅ Real-world business logic implementation
-
-✅ Production-ready code structure
-
-Perfect for showcasing frontend development skills to potential employers!
 
 ⭐ Star this repo if you found it helpful!
 
